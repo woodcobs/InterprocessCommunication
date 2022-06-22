@@ -1,0 +1,40 @@
+Factory #  1: STARTED. My Capacity =  19, in  630 milliSeconds
+Factory #  1: Going to make    19 parts in  630 milliSecs
+Factory #  5: STARTED. My Capacity =  23, in 1065 milliSeconds
+Factory #  3: STARTED. My Capacity =  30, in  985 milliSeconds
+Factory #  4: STARTED. My Capacity =  27, in 1145 milliSeconds
+Factory #  2: STARTED. My Capacity =  45, in 1141 milliSeconds
+Factory #  5: Going to make    23 parts in 1065 milliSecs
+Factory #  3: Going to make    30 parts in  985 milliSecs
+Factory #  2: Going to make    45 parts in 1141 milliSecs
+Factory #  4: Going to make    27 parts in 1145 milliSecs
+Factory #  1: Going to make    19 parts in  630 milliSecs
+Factory #  1: Going to make    19 parts in  630 milliSecs
+Factory #  3: Going to make    30 parts in  985 milliSecs
+Factory #  5: Going to make    23 parts in 1065 milliSecs
+Factory #  2: Going to make    45 parts in 1141 milliSecs
+Factory #  4: Going to make    27 parts in 1145 milliSecs
+Factory #  1: Going to make    19 parts in  630 milliSecs
+Factory #  3: Going to make    30 parts in  985 milliSecs
+Factory #  5: Going to make    23 parts in 1065 milliSecs
+Factory #  1: Going to make    19 parts in  630 milliSecs
+Factory #  2: Going to make    45 parts in 1141 milliSecs
+Factory #  4: Going to make    27 parts in 1145 milliSecs
+Factory #  1: Going to make    19 parts in  630 milliSecs
+Factory #  3: Going to make    30 parts in  985 milliSecs
+Factory #  5: Going to make    23 parts in 1065 milliSecs
+Factory #  2: Going to make    45 parts in 1141 milliSecs
+Factory #  4: Going to make    27 parts in 1145 milliSecs
+Factory #  1: Going to make    19 parts in  630 milliSecs
+Factory #  3: Going to make    30 parts in  985 milliSecs
+Factory #  1: Going to make    19 parts in  630 milliSecs
+Factory #  5: Going to make    23 parts in 1065 milliSecs
+Factory #  2: Going to make    45 parts in 1141 milliSecs
+Factory #  4: Going to make    27 parts in 1145 milliSecs
+Factory #  1: Going to make    19 parts in  630 milliSecs
+Factory #  3: Going to make     4 parts in  985 milliSecs
+>>> Factory #   5: Terminating after making total of   115 parts in    5 iterations
+>>> Factory #   2: Terminating after making total of   225 parts in    5 iterations
+>>> Factory #   4: Terminating after making total of   135 parts in    5 iterations
+>>> Factory #   1: Terminating after making total of   171 parts in    9 iterations
+>>> Factory #   3: Terminating after making total of   154 parts in    6 iterations
